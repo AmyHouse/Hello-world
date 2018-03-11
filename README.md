@@ -1,2 +1,2 @@
 # Hello-world
-First repostitory
+First repository - For Udemy project
